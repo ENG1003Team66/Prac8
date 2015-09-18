@@ -7,3 +7,11 @@ MEMBER 2 FAN WU
 MEMBER 3 DOMINIC JOHN MARKOTIS MURPHY
  
 MEMBER 4 KIN LOONG FOO
+
+YOUR NAME : KINLOONG FOO		
+ 
+Brief introduction : great project
+ 
+Role in project:  programmer 
+ 
+Preferred branch of engineering: civil 
