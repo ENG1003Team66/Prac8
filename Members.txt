@@ -5,5 +5,13 @@ MEMBER 1 PEDRO DE CARVALHO AVELAR
 MEMBER 2 FAN WU
  
 MEMBER 3 DOMINIC JOHN MARKOTIS MURPHY
+
+YOUR NAME: Dominic Murphy
+ 
+Brief introduction:
+ 
+Role in project: Team member
+ 
+Preferred branch of engineering: Mechanical
  
 MEMBER 4 KIN LOONG FOO
