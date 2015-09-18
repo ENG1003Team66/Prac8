@@ -10,18 +10,6 @@ MEMBER 3 DOMINIC JOHN MARKOTIS MURPHY
 
 YOUR NAME: Dominic Murphy
  
-<<<<<<< HEAD
-MEMBER 4 KIN LOONG FOO
-
-
-Fan Wu
- 
-Brief introduction
- 
-Role in project: programmer
- 
-ECSE
-=======
 Brief introduction:
  
 Role in project: Team member
@@ -37,4 +25,3 @@ Brief introduction : great project
 Role in project:  programmer ,....
  
 Preferred branch of engineering: civil eng
->>>>>>> master
