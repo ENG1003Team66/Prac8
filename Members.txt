@@ -7,3 +7,12 @@ MEMBER 2 FAN WU
 MEMBER 3 DOMINIC JOHN MARKOTIS MURPHY
  
 MEMBER 4 KIN LOONG FOO
+
+
+Fan Wu
+ 
+Brief introduction
+ 
+Role in project: programmer
+ 
+ECSE
