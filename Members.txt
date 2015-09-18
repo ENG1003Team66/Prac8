@@ -3,9 +3,14 @@ LIST OF MEMBERS FOR TEAM 66
 MEMBER 1 PEDRO DE CARVALHO AVELAR
  
 MEMBER 2 FAN WU
+
+Electrical Engineering
  
 MEMBER 3 DOMINIC JOHN MARKOTIS MURPHY
+
+YOUR NAME: Dominic Murphy
  
+<<<<<<< HEAD
 MEMBER 4 KIN LOONG FOO
 
 
@@ -16,3 +21,20 @@ Brief introduction
 Role in project: programmer
  
 ECSE
+=======
+Brief introduction:
+ 
+Role in project: Team member
+ 
+Preferred branch of engineering: Mechanical
+ 
+MEMBER 4 KIN LOONG FOO
+
+YOUR NAME : KINLOONG FOO		
+ 
+Brief introduction : great project
+ 
+Role in project:  programmer ,....
+ 
+Preferred branch of engineering: civil eng
+>>>>>>> master
